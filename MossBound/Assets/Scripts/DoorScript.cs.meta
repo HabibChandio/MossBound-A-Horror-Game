@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a911623615ab66443aef6f738f7bf47f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - openSFX: {fileID: 8300000, guid: 2e897a33b9d65b74f9cc7d3fef13d176, type: 3}
+  - closeSFX: {fileID: 8300000, guid: c2edc95f70807924e99b9c6ea11fa8f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
