@@ -135,17 +135,7 @@ Collect 3 keys → open 3 locks on the final door → trigger final jumpscare/es
 
 ---
 
-## 8. Screenshots
-
-*(Add images here as Markdown with `![alt-text](path)` or GitHub upload)*
-
-**Enemy:** The moss monster (Rake)  
-**Puzzles:** Padlock and lever puzzles  
-**Gameplay:** Exploration and interactions  
-
----
-
-## 9. Controls
+## 8. Controls
 
 | Action | Key |
 |--------|-----|
@@ -158,7 +148,7 @@ Collect 3 keys → open 3 locks on the final door → trigger final jumpscare/es
 
 ---
 
-## 10. Credits & Disclaimer
+## 9. Credits & Disclaimer
 
 - **Models, textures, and assets**: Most 3D models and textures used in this project were sourced from **Sketchfab** or other free/educational sources.  
 - **Unity**: The game was developed using Unity Engine.  
