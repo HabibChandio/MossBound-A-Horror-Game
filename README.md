@@ -155,3 +155,15 @@ Collect 3 keys → open 3 locks on the final door → trigger final jumpscare/es
 | Pause / Exit Interaction | Esc |
 | Toggle Flashlight | F |
 | Sprint / Run | Left Shift |
+
+---
+
+## 10. Credits & Disclaimer
+
+- **Models, textures, and assets**: Most 3D models and textures used in this project were sourced from **Sketchfab** or other free/educational sources.  
+- **Unity**: The game was developed using Unity Engine.  
+- **Blender**: The map was created using Blender.  
+
+> **Disclaimer:** I do **not** claim ownership of any third-party models, textures, or assets used in this project. All such assets are used solely for educational purposes as part of this course project.
+
+
